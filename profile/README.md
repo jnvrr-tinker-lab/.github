@@ -32,19 +32,10 @@ The organization is led by a dedicated team of makers, engineers, and artists wi
 
 **Key Leadership:**
 - **Core/Lead Developer:** YESHWANTH KUMAR DOMALA
-  - Oversees technical direction and software development
-  - Manages project roadmaps and implementation
-  - Mentors team members on embedded systems and IoT solutions
 
 - **Department Head:** S. KAVITHA
-  - Manages organizational operations and strategy
-  - Oversees code quality standards and review practices
-  - Leads documentation and knowledge sharing initiatives
-
+  
 - **Representative Head:** CH. NIROSHA
-  - Manages community engagement and outreach
-  - Leads member coordination and collaboration efforts
-  - Facilitates mentorship and professional development
 
 ### Leadership Responsibilities
 Our leaders are actively involved in:
