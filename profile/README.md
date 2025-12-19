@@ -33,7 +33,7 @@ The organization is led by a dedicated team of makers, engineers, and artists wi
 **Key Leadership:**
 - **Core/Lead Developer:** YESHWANTH KUMAR DOMALA
 
-- **Department Head:** S. KAVITHA
+- **Department Head:** B. KAVITHA
   
 - **Representative Head:** CH. NIROSHA
 
