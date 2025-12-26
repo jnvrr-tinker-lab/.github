@@ -1,4 +1,4 @@
-# jnvrr Tinker Lab  yeshwanth kumar domala 
+# jnvrr Tinker Lab
 
 ## About Us
 
